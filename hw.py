@@ -1,10 +1,3 @@
-Write a function to calculate the entropy of a given dataset.
-def calculate_entropy(X, y)—>float:
-# X : dimension=> [number of samples x number of features]
-# y : dimension=> [number of samples]
-entropy = None
-# TODO Calculate entropy of the given dataset X, y
-return entropy
 
 
 import numpy as np
